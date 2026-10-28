@@ -46,3 +46,7 @@ Teacher placement covers the first ten days, essential Day 8 Meaning, and Day 6 
 ## Integration verification
 
 All four source-integrity checks and the frozen existing-text/link comparison passed. Browser checks covered seven colour selectors, genuine inside views, ordered stack layers, bidirectional context selection, the three memory interfaces, twin anchors, recorded/trial comparison and share preview. Phone layouts were reviewed at 390 and 320 CSS pixels; narrow-screen projection controls move below the plot. Keyboard controls, static fallback structure and reduced-motion rules were reviewed.
+
+## Native Studio integration
+
+Interactive Aura examples now use the actual Matrix Studio renderer and the relevant native starter functions. See native-matrix-studio.md for the source/adaptation boundary, dataset schema, storage separation and verification. Native starter placements are recorded in the same contextual placement map; existing article content remains unchanged.

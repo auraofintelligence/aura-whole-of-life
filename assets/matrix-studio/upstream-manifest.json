@@ -1,0 +1,54 @@
+{
+  "source": "Aura Matrix Studio by Luke Nathan Hayes / Strange But True / Aura of Intelligence",
+  "url": "https://auraofintelligence.github.io/aura-matrix-studio/",
+  "modules": {
+    "renderer.js": {
+      "sha256": "eef6a58b3ecb17c71e533d42ea2dd07e432c9435ebcb1e817ad12751ca5bfae4",
+      "adaptation": "None; repository LF text format."
+    },
+    "frame-display.js": {
+      "sha256": "2f1f20772572a03371d8711c117e9b0e62f4c14e21af5c50405be524a470b6ed",
+      "adaptation": "None; repository LF text format."
+    },
+    "core.js": {
+      "sha256": "2fa88da9708d13f8f42ee160785785faae9e0e630087e54804ee1a8bd1420602",
+      "adaptation": "None; repository LF text format."
+    },
+    "spatial.js": {
+      "sha256": "e50137ac19855f8e694ce65be0973460601cb3feee8cf751464dbb1635d47508",
+      "adaptation": "None; repository LF text format."
+    },
+    "shell-style.js": {
+      "sha256": "64967cf365fb16a72fa571da59f8c004befbaf8dab38fd564741b2ef9a5eb9b6",
+      "adaptation": "None; repository LF text format."
+    },
+    "aura-glow-data.js": {
+      "sha256": "875c1f54e7da3de1122827b7383aa1e898bb84160012cdb75cbe594ff54b3cd2",
+      "adaptation": "None; repository LF text format."
+    },
+    "dataset-schema.js": {
+      "sha256": "76a96f30964bcd3ea60e87819fa0e1c4cb3e3ca1728ecccadde81af7762cf00f",
+      "adaptation": "None; repository LF text format."
+    },
+    "favourites-data.js": {
+      "sha256": "b917c0256b344279443b327e5a8c34f0d2328c8a7bb659e7f1d7774e8cda863c",
+      "adaptation": "None; repository LF text format."
+    },
+    "original-routes.js": {
+      "sha256": "455490dab2a802f63614d7bd430ef6ad0801ed248897e3c1deb3b1b882e05067",
+      "adaptation": "None; repository LF text format."
+    },
+    "vendor/three.min.js": {
+      "sha256": "9274bbcec8d96168626c732b5d31c775aa8cfb7eaa0599bec0c175908a2c1ce2",
+      "adaptation": "None; repository LF text format."
+    },
+    "vendor/THREE-LICENSE.txt": {
+      "sha256": "7dddf7c5b8fd10ee654db8857d75d104b5557889aa5a91fc4ca545ea7c07062f",
+      "adaptation": "None; repository LF text format."
+    },
+    "LICENCE.md": {
+      "sha256": "21d7ec38813b262a834a83ac75a8e84f5a1eb9e71d7af2456068a41354d4ad9a",
+      "adaptation": "None; repository LF text format."
+    }
+  }
+}

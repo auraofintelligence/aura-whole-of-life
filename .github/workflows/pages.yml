@@ -21,10 +21,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
       - name: Build the reading site
         run: python scripts/build.py
       - name: Verify original content, routes and assets
         run: python scripts/check.py
+      - run: python scripts/check_matrix_samples.py
+      - run: node scripts/check_native_samples.mjs
       - name: Check optional JavaScript
         run: node --check assets/site.js
       - name: Export public files

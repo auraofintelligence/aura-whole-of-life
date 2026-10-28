@@ -5,3 +5,5 @@
 *.png -text
 *.ttf -text
 *.woff2 -text
+assets/fonts/* -text
+LICENCE.md -text

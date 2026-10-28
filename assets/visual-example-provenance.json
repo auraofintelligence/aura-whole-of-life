@@ -134,11 +134,11 @@
     "aura-layers-fallback.svg": "21c297f6d9b556580fab0f9159a95459109678fb1da8b8b061b415945858c0fc",
     "aura-inside-fallback.svg": "d0b48fecc836ae59b08b91e44b9298dfd475ef2195b2b98441f819e22e4350e0",
     "aura-stack-fallback.svg": "e3e02a729eaee53067e02783d1e842659545e46f55a2a3046f88946f00405939",
-    "aura-everyday.js": "373bedd897c35d83003397fc2894ce1ce23368b275449ec3dea0a88199fe69f6",
-    "aura-everyday.css": "11b8bb0f88811a00df38b24d689568f6cc8a80a28129b8d8d435cc94d94de23c",
+    "aura-everyday.js": "6bccc881b0061e94c1f2209e6a2551f6f1d9132e5a0e76bc3792cb1a5aada7f7",
+    "aura-everyday.css": "cbce883df2904a6cfdc8bd92531c1e1a1da1967263245b9a97fb7ee888435d70",
     "aura-everyday-fallbacks.json": "f96825e962ae56e085346dd8352e154aa83d421a1a7abab1defd017521f57876",
     "visual-examples.css": "da7ef1d2f75a568d6ab5fbe8fbf1c27d9d978a656edb2edc88eccdfcf289b46b",
-    "visual-example-placement.json": "243ab317f7e74d7f3b9409f973e39e76d9fc060e23a11d682b21199fa55a777d"
+    "visual-example-placement.json": "1526ec0bded8a6865918f17298358e9b7d73cb8a2fbf67b35219a0f2533d3c7c"
   },
   "placements": {
     "figures": 5,

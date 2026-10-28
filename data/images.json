@@ -1,41 +1,137 @@
 [
   {
     "id": "whole-life-hero",
-    "file": "assets/images/whole-life-hero.webp",
-    "small": "assets/images/whole-life-hero-800.webp",
-    "width": 1536,
-    "height": 1024,
-    "alt": "A woman directs a tablet conversation with her adult daughter at a table overlooking a Queensland garden.",
-    "sha256": "58e89ba8c7e14adedfcd6e06f2aa46a88dc0099ffd49a32570443d88965f6c3f",
+    "file": "assets/images/whole-life-hero-protopia-v3.webp",
+    "small": "assets/images/whole-life-hero-protopia-v3-800.webp",
+    "width": 1672,
+    "height": 941,
+    "alt": "An older woman in purple directs a personal Aura display with her adult daughter, choosing outings and creative activities connected by luminous memory threads.",
+    "sha256": "60a801178391422c1cd7f82d534192d1e14546baadb2d418b0be6fc05cff68e1",
     "generator": "OpenAI built-in image generation",
     "generated": "2026-10-28",
     "status": "Imagined editorial concept; fictional people and setting; not evidence of a service or outcome.",
-    "prompt": "Use case: photorealistic-natural. Asset type: original landscape editorial website illustration for an Australian personal-AI whole-of-life support proposal. Create a wide 3:2 image with thoughtful documentary realism and subtle painterly warmth, warm ivory, deep jade, muted gold and natural timber, soft Queensland daylight. No visible writing, logos, watermarks or medical claims. People are fictional, dignified, relaxed and self-directed. All technology is plausible; no glowing holograms, sci-fi symbols or diagnostic displays. Primary request: a confident woman in her late fifties and her adult daughter sitting together at a timber table in a welcoming garden-facing Queensland home. The woman directs an ordinary tablet while they look at a favourite printed photograph and a small ceramic object. A green garden and open veranda beyond. The technology is a small supporting detail; faces, relationships, everyday agency and the living space lead. Wide environmental composition with full people and no cropped hands; warm editorial atmosphere. It is imagined concept artwork, not a photograph of a care service."
+    "prompt": "Reimagine the supplied existing website image using the additional supplied images as STYLE AND CONCEPT references. Image 1 is the current scene to replace, not a locked composition. The other images show the intended expressive cinematic Protopian visual language: characterful people, visible purposeful personal intelligence, purple clothing and objects, electric blue depth and golden warmth, everyday human life linked to ambitious ethical technology. Create a genuinely new composition, not merely recoloured clothes or sterile corporate furniture. Keep warmth, natural materials and greenery where useful; give every technological element a clear human purpose. Vivid colour separation and natural skin tones; no flat purple filter or monochrome colour wash. Wide landscape 16:9, full-scene composition, no text overlays, watermarks, slogans, official logos or fabricated medical data. All people and settings are fictional and this is proposed-future concept art. Do not copy the reference characters' identities. The whole-of-life proposal is about personal agency, relationships, meaning, creativity and a fair go in the age of superintelligence, not passive patients or a rustic wellness retreat. Hero proposition: an older woman with an expressive amethyst-purple jacket confidently directs her personal Aura from a large tablet in her own warmly lived-in Queensland home, with her adult daughter beside her as an equal conversation partner. They are making a choice about a future outing or creative activity, not posing at a table. A coherent luminous visualisation extends from the tablet: a rainbow nested horn-torus personal-context view, selected photographs and a musical memory connected by fine golden light, alongside a softly visible digital representation of a meaningful place. This is a visual metaphor for source-linked personal understanding, not a cure. Show their faces, hands and active attention clearly. Composition should balance the intimate human relationship with striking, intelligible technology and an open view toward the wider world. Rich purple and cobalt with warm gold and natural timber; plenty of neutral material contrast. Do not include a pressure chamber, medical uniforms, biometric claims or a generic wall of charts.",
+    "small_sha256": "5201af2808f7826f036978c8671f8ed5b6aef3d1a1131c82d99ccee628ac15a0",
+    "source_png_sha256": "9c76b119a8a50848c3e5b399e84a9c9d295b4ba64da380e1f7536a800a5bae39",
+    "revision": "protopia-v3",
+    "reference_images": [
+      {
+        "file": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
+        "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96"
+      },
+      {
+        "file": "choose-your-own-protopia-landscape-v1.png",
+        "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff"
+      },
+      {
+        "file": "ChatGPT Image 27 Oct 2026, 20_50_33.png",
+        "sha256": "cc1d38a95560824d1f6c578ea33f02c698c37b134d1319cd71c471429c6be789"
+      }
+    ],
+    "previous_versions": [
+      {
+        "id": "whole-life-hero",
+        "file": "assets/images/whole-life-hero.webp",
+        "small": "assets/images/whole-life-hero-800.webp",
+        "width": 1536,
+        "height": 1024,
+        "alt": "A woman directs a tablet conversation with her adult daughter at a table overlooking a Queensland garden.",
+        "sha256": "58e89ba8c7e14adedfcd6e06f2aa46a88dc0099ffd49a32570443d88965f6c3f",
+        "generator": "OpenAI built-in image generation",
+        "generated": "2026-10-28",
+        "status": "Imagined editorial concept; fictional people and setting; not evidence of a service or outcome.",
+        "prompt": "Use case: photorealistic-natural. Asset type: original landscape editorial website illustration for an Australian personal-AI whole-of-life support proposal. Create a wide 3:2 image with thoughtful documentary realism and subtle painterly warmth, warm ivory, deep jade, muted gold and natural timber, soft Queensland daylight. No visible writing, logos, watermarks or medical claims. People are fictional, dignified, relaxed and self-directed. All technology is plausible; no glowing holograms, sci-fi symbols or diagnostic displays. Primary request: a confident woman in her late fifties and her adult daughter sitting together at a timber table in a welcoming garden-facing Queensland home. The woman directs an ordinary tablet while they look at a favourite printed photograph and a small ceramic object. A green garden and open veranda beyond. The technology is a small supporting detail; faces, relationships, everyday agency and the living space lead. Wide environmental composition with full people and no cropped hands; warm editorial atmosphere. It is imagined concept artwork, not a photograph of a care service."
+      }
+    ]
   },
   {
     "id": "places-and-memories",
-    "file": "assets/images/places-and-memories.webp",
-    "small": "assets/images/places-and-memories-800.webp",
-    "width": 1536,
-    "height": 1024,
-    "alt": "An older man and his chosen supporter discuss a plant and keepsake while preparing to move from a familiar home.",
-    "sha256": "ded453e300315f516d9c4a554025a767f90388a10ad0d7ec7197a65d22cc1d1f",
+    "file": "assets/images/places-and-memories-protopia-v3.webp",
+    "small": "assets/images/places-and-memories-protopia-v3-800.webp",
+    "width": 1672,
+    "height": 941,
+    "alt": "An older man in purple chooses a meaningful keepsake while a supporter explores his room and selected memories through a spatial display before a move.",
+    "sha256": "09af7d267f7022f9025a2056ea09d56186799661a5e59df94b7b9c4ffbd83eeb",
     "generator": "OpenAI built-in image generation",
     "generated": "2026-10-28",
     "status": "Imagined editorial concept; fictional people and setting; not evidence of a service or outcome.",
-    "prompt": "Use case: photorealistic-natural. Asset type: original landscape editorial website illustration for an Australian personal-AI whole-of-life support proposal. Create a wide 3:2 image with thoughtful documentary realism and subtle painterly warmth, warm ivory, deep jade, muted gold and natural timber, soft Queensland daylight. No visible writing, logos, watermarks or medical claims. People are fictional, dignified, relaxed and self-directed. All technology is plausible; no glowing holograms, sci-fi symbols or diagnostic displays. Primary request: a fictional older man preparing to move from his beloved Queensland house, sitting beside a wide window with his chosen supporter. An ordinary tablet shows a simple photographic view of the same garden, with no readable interface text. He points to a potted plant and a small timber keepsake while explaining their meaning; a few neatly packed moving boxes, an album and familiar chair establish the transition. Both people engaged as equals, unhurried, airy and human. Natural full-scene 3:2 composition. This represents preserving meaning through a move, not restoring memory or a treatment."
+    "prompt": "Reimagine the supplied existing website image using the additional supplied images as STYLE AND CONCEPT references. Image 1 is the current scene to replace, not a locked composition. The other images show the intended expressive cinematic Protopian visual language: characterful people, visible purposeful personal intelligence, purple clothing and objects, electric blue depth and golden warmth, everyday human life linked to ambitious ethical technology. Create a genuinely new composition, not merely recoloured clothes or sterile corporate furniture. Keep warmth, natural materials and greenery where useful; give every technological element a clear human purpose. Vivid colour separation and natural skin tones; no flat purple filter or monochrome colour wash. Wide landscape 16:9, full-scene composition, no text overlays, watermarks, slogans, official logos or fabricated medical data. All people and settings are fictional and this is proposed-future concept art. Do not copy the reference characters' identities. The whole-of-life proposal is about personal agency, relationships, meaning, creativity and a fair go in the age of superintelligence, not passive patients or a rustic wellness retreat. Chapter proposition: an older man in a vivid plum-purple smart-casual jacket is actively exploring a memory palace before moving home. He stands or sits comfortably with his chosen supporter, pointing to a meaningful object as a spatial digital reconstruction of his familiar room is visible through a tablet and a layered luminous room view. Familiar chair, album, a personal keepsake and a few moving boxes anchor the story. A small constellation of selected photos, a sound/musical cue and a remembered coastal place connects with the room through precise golden threads and blue-violet context forms, in the emotionally rich visual language of the memory reference. The man is explaining and choosing what to retain; his supporter listens rather than taking over. The actual room, natural daylight and human skin remain clear and realistic. Forward-looking personal intelligence with lived warmth, not memory restoration or a medical treatment scene. Do not duplicate the original seated-at-coffee-table composition.",
+    "small_sha256": "83764be3284794a49567bf558dd05af6ae78575f84b54e4f0a404e3475923947",
+    "source_png_sha256": "67c95c6a1f070b0609aa5a936d86987ffa0ff690d24278b8753558b0edd97c69",
+    "revision": "protopia-v3",
+    "reference_images": [
+      {
+        "file": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
+        "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96"
+      },
+      {
+        "file": "choose-your-own-protopia-landscape-v1.png",
+        "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff"
+      },
+      {
+        "file": "ChatGPT Image 27 Oct 2026, 20_50_33.png",
+        "sha256": "cc1d38a95560824d1f6c578ea33f02c698c37b134d1319cd71c471429c6be789"
+      }
+    ],
+    "previous_versions": [
+      {
+        "id": "places-and-memories",
+        "file": "assets/images/places-and-memories.webp",
+        "small": "assets/images/places-and-memories-800.webp",
+        "width": 1536,
+        "height": 1024,
+        "alt": "An older man and his chosen supporter discuss a plant and keepsake while preparing to move from a familiar home.",
+        "sha256": "ded453e300315f516d9c4a554025a767f90388a10ad0d7ec7197a65d22cc1d1f",
+        "generator": "OpenAI built-in image generation",
+        "generated": "2026-10-28",
+        "status": "Imagined editorial concept; fictional people and setting; not evidence of a service or outcome.",
+        "prompt": "Use case: photorealistic-natural. Asset type: original landscape editorial website illustration for an Australian personal-AI whole-of-life support proposal. Create a wide 3:2 image with thoughtful documentary realism and subtle painterly warmth, warm ivory, deep jade, muted gold and natural timber, soft Queensland daylight. No visible writing, logos, watermarks or medical claims. People are fictional, dignified, relaxed and self-directed. All technology is plausible; no glowing holograms, sci-fi symbols or diagnostic displays. Primary request: a fictional older man preparing to move from his beloved Queensland house, sitting beside a wide window with his chosen supporter. An ordinary tablet shows a simple photographic view of the same garden, with no readable interface text. He points to a potted plant and a small timber keepsake while explaining their meaning; a few neatly packed moving boxes, an album and familiar chair establish the transition. Both people engaged as equals, unhurried, airy and human. Natural full-scene 3:2 composition. This represents preserving meaning through a move, not restoring memory or a treatment."
+      }
+    ]
   },
   {
     "id": "community-and-choice",
-    "file": "assets/images/community-and-choice.webp",
-    "small": "assets/images/community-and-choice-800.webp",
-    "width": 1536,
-    "height": 1024,
-    "alt": "Adults of different ages, including a wheelchair user, share seedlings and practical knowledge in an accessible community garden.",
-    "sha256": "f8dfcaa09575a3ed5fffc2ddf8036fbd145c41b65d69570b154bc0e56d1c2995",
+    "file": "assets/images/community-and-choice-protopia-v3.webp",
+    "small": "assets/images/community-and-choice-protopia-v3-800.webp",
+    "width": 1672,
+    "height": 941,
+    "alt": "Adults of different ages, including a wheelchair user, explore a shared digital model of transport, music and community spaces alongside a small robot.",
+    "sha256": "94066977c691b0e576b7e8301817d5aa7e8f39e8e6fa9762e126fed3588849a6",
     "generator": "OpenAI built-in image generation",
     "generated": "2026-10-28",
     "status": "Imagined editorial concept; fictional people and setting; not evidence of a service or outcome.",
-    "prompt": "Use case: photorealistic-natural. Asset type: original landscape editorial website illustration for an Australian personal-AI whole-of-life support proposal. Create a wide 3:2 image with thoughtful documentary realism and subtle painterly warmth, warm ivory, deep jade, muted gold and natural timber, soft Queensland daylight. No visible writing, logos, watermarks or medical claims. People are fictional, dignified, relaxed and self-directed. All technology is plausible; no glowing holograms, sci-fi symbols or diagnostic displays. Primary request: an accessible Australian community garden gathering with four fictional adults of different ages, including an adult using a wheelchair at a raised herb bed, a younger gardener and an older mentor who passes a seedling. A shaded shared table holds vegetables and a simple meal; a modest workshop/veranda beyond. Warm relationships, personal choice, usefulness, intergenerational learning and belonging. Wide landscape environmental composition, natural gestures and realistic accessible paths. No branded uniforms, medical equipment or charity pose; no implication of an operating service."
+    "prompt": "Reimagine the supplied existing website image using the additional supplied images as STYLE AND CONCEPT references. Image 1 is the current scene to replace, not a locked composition. The other images show the intended expressive cinematic Protopian visual language: characterful people, visible purposeful personal intelligence, purple clothing and objects, electric blue depth and golden warmth, everyday human life linked to ambitious ethical technology. Create a genuinely new composition, not merely recoloured clothes or sterile corporate furniture. Keep warmth, natural materials and greenery where useful; give every technological element a clear human purpose. Vivid colour separation and natural skin tones; no flat purple filter or monochrome colour wash. Wide landscape 16:9, full-scene composition, no text overlays, watermarks, slogans, official logos or fabricated medical data. All people and settings are fictional and this is proposed-future concept art. Do not copy the reference characters' identities. The whole-of-life proposal is about personal agency, relationships, meaning, creativity and a fair go in the age of superintelligence, not passive patients or a rustic wellness retreat. Chapter proposition: an intergenerational accessible co-design studio and community plaza overlooking a Queensland bay. Four fictional adults including a confident wheelchair user and an older mentor actively compare choices around a clear interactive tabletop digital twin of their neighbourhood. Purple jackets/shirts and selected physical purple furnishings establish identity. The model connects accessible transport, a creative music/workshop venue, useful shared resources and a small garden; a friendly compact assistive educational robot supports a practical demonstration without dominating people. People point, question, explain and make their own choices. Through the open architecture, an inviting technologically capable future community is visible. Blue-violet interfaces and golden connections tell the story of personal context becoming shared capability. Keep believable people, diverse natural colours and warm materials, energetic human purpose and inclusive agency. No generic seedling exchange, charity pose, clinical equipment, official branding, surveillance or treatment claims.",
+    "small_sha256": "b7682366145a8924f33d4b70dc609ce32b7b12016b232569414c6d181e8a8e7f",
+    "source_png_sha256": "f47b0c3bee55ed9c14b13e466b670ab20bae9f28050e3c23ad64e63bf585cde2",
+    "revision": "protopia-v3",
+    "reference_images": [
+      {
+        "file": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
+        "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96"
+      },
+      {
+        "file": "choose-your-own-protopia-landscape-v1.png",
+        "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff"
+      },
+      {
+        "file": "ChatGPT Image 27 Oct 2026, 20_50_33.png",
+        "sha256": "cc1d38a95560824d1f6c578ea33f02c698c37b134d1319cd71c471429c6be789"
+      }
+    ],
+    "previous_versions": [
+      {
+        "id": "community-and-choice",
+        "file": "assets/images/community-and-choice.webp",
+        "small": "assets/images/community-and-choice-800.webp",
+        "width": 1536,
+        "height": 1024,
+        "alt": "Adults of different ages, including a wheelchair user, share seedlings and practical knowledge in an accessible community garden.",
+        "sha256": "f8dfcaa09575a3ed5fffc2ddf8036fbd145c41b65d69570b154bc0e56d1c2995",
+        "generator": "OpenAI built-in image generation",
+        "generated": "2026-10-28",
+        "status": "Imagined editorial concept; fictional people and setting; not evidence of a service or outcome.",
+        "prompt": "Use case: photorealistic-natural. Asset type: original landscape editorial website illustration for an Australian personal-AI whole-of-life support proposal. Create a wide 3:2 image with thoughtful documentary realism and subtle painterly warmth, warm ivory, deep jade, muted gold and natural timber, soft Queensland daylight. No visible writing, logos, watermarks or medical claims. People are fictional, dignified, relaxed and self-directed. All technology is plausible; no glowing holograms, sci-fi symbols or diagnostic displays. Primary request: an accessible Australian community garden gathering with four fictional adults of different ages, including an adult using a wheelchair at a raised herb bed, a younger gardener and an older mentor who passes a seedling. A shaded shared table holds vegetables and a simple meal; a modest workshop/veranda beyond. Warm relationships, personal choice, usefulness, intergenerational learning and belonging. Wide landscape environmental composition, natural gestures and realistic accessible paths. No branded uniforms, medical equipment or charity pose; no implication of an operating service."
+      }
+    ]
   }
 ]

@@ -4,7 +4,7 @@ A public introduction by **Luke Nathan Hayes**, dated **27 October 2026**, for a
 
 **Public website:** https://auraofintelligence.github.io/aura-whole-of-life/
 
-The complete reading site contains a welcome page, twelve substantive grouped chapters, the unchanged original Word document, all three original tables in their source positions, a full reference library, connected projects, licence and HTML/XML sitemaps. Original artwork supports personal continuity at home, preserving meaningful places through a move, and accessible community participation.
+The complete reading site contains a welcome page, twelve substantive grouped chapters, the unchanged original Word document, all three original tables in their source positions, a full reference library, connected projects, licence and HTML/XML sitemaps. Reference-led Protopian concept artwork makes personal Aura representations, spatial memory and shared civic technology visible through human-directed choices. Purple clothing and physical details sit alongside electric blue depth and golden warmth. The homepage connects whole-of-life support with a fair go in the age of superintelligence.
 
 ## Scope and status
 
@@ -43,7 +43,9 @@ The one-time `scripts/prepare_assets.py` imports original files from their autho
 
 ## Design and privacy
 
-Warm ivory, jade and muted gold; self-hosted DM Sans and Manrope with OFL licences; at least 18px ordinary screen text; naturally proportioned generated artwork with titles above it. Reading and native details navigation work without JavaScript. Keyboard access, skip links, chapter contents, circular previous/next navigation, floating top links, reduced motion and print styles are included. Optional site-index search stays in the browser and saves nothing.
+The active `protopia-v3` artwork was generated from new audience-specific scene briefs and the supplied visual references. Exact prompts, reference basenames and hashes, active asset hashes and previous artwork metadata are recorded in the image manifests. Earlier artwork files remain available in the repository history and asset directory. The lyric sheet informed tone and purpose; no lyrics or reference-image files are published by this site.
+
+Light neutral paper, plum and violet with electric blue and warm gold accents; self-hosted DM Sans and Manrope with OFL licences; at least 18px ordinary screen text; naturally proportioned generated artwork with titles above it. Reading and native details navigation work without JavaScript. Keyboard access, skip links, chapter contents, circular previous/next navigation, floating top links, reduced motion and print styles are included. Optional site-index search stays in the browser and saves nothing.
 
 There are no accounts, forms, analytics, tracking, remote fonts or third-party embeds. This reading website does not collect personal or health information. GitHub hosting and linked external services have their own terms.
 

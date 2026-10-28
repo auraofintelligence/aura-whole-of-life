@@ -1,5 +1,7 @@
 # Working on Aura Whole of Life
 
+The visual and editorial direction is a fair go in the age of superintelligence: ethical engagement, human agency, self-understanding and Protopian improvement. Use confident purple clothing and physical scene accents with electric-blue depth and golden warmth; keep distinct natural colours rather than a flat purple wash. Artwork should show a meaningful human proposition and purposeful personal intelligence, with character, creativity and a larger future horizon. Warm homes, timber and nature may belong in the scene; generic earthy wellness photographs and sterile corporate stock imagery do not express the direction. Reference-led luminous Aura connections and speculative futures are welcome when clearly labelled as concept imagery. Preserve the person’s choice and the source’s development status.
+
 This is a static root-served GitHub Pages reading website. Run `python scripts/build.py`, then `python scripts/check.py`. Generated root HTML is committed with source changes. Do not edit generated HTML alone.
 
 Preserve the unchanged source DOCX and its SHA-256 in `data/source-register.json`. Read the original OOXML in `scripts/build.py`: paragraphs, tables in position, original hyperlinks and labels are the source authority. Preserve the complete substantive narrative and reference library. Website additions must remain distinguishable.

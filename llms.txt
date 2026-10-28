@@ -1,0 +1,29 @@
+# Aura of Intelligence for Adaptive Whole of Life Support
+
+> A dated public proposal by Luke Nathan Hayes for personal continuity, meaningful activities and support through changing adult care needs.
+
+The full source is dated 27 October 2026. A working browser prototype and proposed clinical service have distinct development stages. This site is reading material, not onboarding or an operating clinical service. Preserve research, funding and evidence limitations. C-Hours are nonmonetary verified voluntary contributions.
+
+## Reading pages
+
+- [Welcome](https://auraofintelligence.github.io/aura-whole-of-life/index.html)
+- [Getting started](https://auraofintelligence.github.io/aura-whole-of-life/getting-started.html)
+- [Changing support needs](https://auraofintelligence.github.io/aura-whole-of-life/changing-support.html)
+- [Identity and future wishes](https://auraofintelligence.github.io/aura-whole-of-life/identity-and-wishes.html)
+- [Memory palaces and downsizing](https://auraofintelligence.github.io/aura-whole-of-life/memory-palaces.html)
+- [Moving home and into care](https://auraofintelligence.github.io/aura-whole-of-life/moving-home.html)
+- [Adult Genesis and wellbeing](https://auraofintelligence.github.io/aura-whole-of-life/adult-genesis.html)
+- [People, consent and safety](https://auraofintelligence.github.io/aura-whole-of-life/people-and-choice.html)
+- [Personal records and legal context](https://auraofintelligence.github.io/aura-whole-of-life/personal-records.html)
+- [Clinical development and evidence](https://auraofintelligence.github.io/aura-whole-of-life/clinical-development.html)
+- [Care pathways and a local beginning](https://auraofintelligence.github.io/aura-whole-of-life/pathways-and-place.html)
+- [Community, work and time](https://auraofintelligence.github.io/aura-whole-of-life/community-and-futures.html)
+- [Developing the programme](https://auraofintelligence.github.io/aura-whole-of-life/partnerships.html)
+- [Sources and original document](https://auraofintelligence.github.io/aura-whole-of-life/sources.html)
+- [Connected projects](https://auraofintelligence.github.io/aura-whole-of-life/projects.html)
+- [Licence and rights](https://auraofintelligence.github.io/aura-whole-of-life/licence.html)
+- [Every page](https://auraofintelligence.github.io/aura-whole-of-life/sitemap.html)
+
+## Rights
+
+Strange But True Public Source Licence. Discovery and search access grant no commercial AI-training rights. Full terms: https://auraofintelligence.github.io/aura-whole-of-life/LICENCE.md

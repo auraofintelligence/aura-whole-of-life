@@ -1,0 +1,340 @@
+{
+  "source": "documents/Aura_of_Intelligence_Adaptive_Whole_of_Life_Support.docx",
+  "home": [
+    4,
+    10
+  ],
+  "chapters": [
+    {
+      "slug": "getting-started",
+      "label": "Getting started",
+      "title": "A first account you recognise",
+      "start": 11,
+      "end": 28,
+      "summary": "Choose one useful purpose, record enough personal context to begin, and review the result in your own words. The relationship develops through experience and correction.",
+      "image": "whole-life-hero",
+      "action": "What would you like the first useful encounter to help you do? A short care introduction, a meaningful activity or a question for someone supporting you can provide a beginning."
+    },
+    {
+      "slug": "changing-support",
+      "label": "Changing support needs",
+      "title": "Support shaped by your life",
+      "start": 29,
+      "end": 63,
+      "summary": "Younger onset dementia, disability and emerging aged care involve different lives and support arrangements. Begin with the person’s communication, abilities and chosen goals.",
+      "image": null,
+      "action": "Choose a familiar activity and describe what makes it manageable or enjoyable. The relevant support team can then discuss a particular change and review what helped."
+    },
+    {
+      "slug": "identity-and-wishes",
+      "label": "Identity and future wishes",
+      "title": "Room to remember and to change",
+      "start": 64,
+      "end": 75,
+      "summary": "Explore why an experience or preference matters. Earlier stories sit alongside present wishes, new friendships and possibilities still to come.",
+      "image": null,
+      "action": "A simple question can open a useful conversation: when you say you miss home, which part of home do you mean? The person’s explanation leads the next step."
+    },
+    {
+      "slug": "memory-palaces",
+      "label": "Memory palaces and downsizing",
+      "title": "Keep the meaning of a place",
+      "start": 76,
+      "end": 99,
+      "summary": "A familiar room, garden or object can lead back to a story. A place-based collection preserves selected photographs, recordings and their personal meaning through a move.",
+      "image": "places-and-memories",
+      "action": "Begin with one place and one story. Give the item a recognisable name, its source and the person’s explanation, then try opening it in the format they expect to use later."
+    },
+    {
+      "slug": "moving-home",
+      "label": "Moving home and into care",
+      "title": "Carry your story into the next home",
+      "start": 100,
+      "end": 111,
+      "summary": "Prepare a small, useful introduction for the receiving team. Earlier places remain part of a life that continues in a new room, with present routines and relationships.",
+      "image": null,
+      "action": "Before moving day, agree what travels, who receives access and who can help open or correct the collection. Make the introduction short enough for a real care encounter."
+    },
+    {
+      "slug": "adult-genesis",
+      "label": "Adult Genesis and wellbeing",
+      "title": "Understand the adult research proposal",
+      "start": 112,
+      "end": 135,
+      "summary": "The intensive adult Genesis design brings personal reflection, HBOT and Truth Engine research into a proposed programme. Each element needs its own purpose, assessment and evidence.",
+      "image": null,
+      "action": "An actual research invitation needs to explain the activity, recording, clinical purpose, responsible team, alternatives and a practical way to stop. Everyday Aura support has its own introduction route."
+    },
+    {
+      "slug": "people-and-choice",
+      "label": "People, consent and safety",
+      "title": "People you can turn to",
+      "start": 136,
+      "end": 156,
+      "summary": "Families, carers, providers, clinicians and researchers bring different responsibilities. A dependable offer makes those responsibilities and the person’s choices understandable.",
+      "image": null,
+      "action": "Name who receives a concern, who follows it up, and where independent help is available. Choosing whether to join research remains separate from decisions about existing care."
+    },
+    {
+      "slug": "personal-records",
+      "label": "Personal records and legal context",
+      "title": "Useful access with clear boundaries",
+      "start": 157,
+      "end": 180,
+      "summary": "Understand where information is held, who can use it and how to find or correct it. Legal learning helps prepare a clearer question and identify the responsible decision-maker.",
+      "image": null,
+      "action": "Try recovering a selected story from a backup. Check the information and permission needed for the next encounter, including what happens if a device, supporter or provider changes."
+    },
+    {
+      "slug": "clinical-development",
+      "label": "Clinical development and evidence",
+      "title": "Test a defined benefit",
+      "start": 181,
+      "end": 204,
+      "summary": "A personal record, a clinical software function, HBOT and a Truth Engine task ask different questions. The proposed development route connects each claim with a suitable evaluation.",
+      "image": null,
+      "action": "Describe one input, one output and the decision being supported. A clear purpose makes it possible to choose useful outcomes, examine errors and decide what the next study should test."
+    },
+    {
+      "slug": "pathways-and-place",
+      "label": "Care pathways and a local beginning",
+      "title": "A practical place to begin",
+      "start": 205,
+      "end": 238,
+      "summary": "Funding pathways, quality standards and local relationships shape what can actually be offered. A focused Queensland beginning would examine a defined need and the resources around it.",
+      "image": null,
+      "action": "Set out who is paying, what is included, what support is needed and who is accountable. The Amity land proposal and a funded care or research service each require their own agreements."
+    },
+    {
+      "slug": "community-and-futures",
+      "label": "Community, work and time",
+      "title": "A whole life in the community",
+      "start": 239,
+      "end": 262,
+      "summary": "Friendship, learning, creativity, rest and contribution belong alongside support needs. Wider Aura proposals explore voluntary reciprocity, shared enterprise and time throughout life.",
+      "image": "community-and-choice",
+      "action": "Look for an invitation connected to the person’s interests and access needs. A welcoming event, creative project or skill shared with a neighbour can be worthwhile in its own right."
+    },
+    {
+      "slug": "partnerships",
+      "label": "Developing the programme",
+      "title": "Turn a useful purpose into a clear offer",
+      "start": 263,
+      "end": 274,
+      "summary": "Prepare a demonstration, name the people and resources involved, and establish readiness before recruitment. The next step follows a review of the actual experience.",
+      "image": null,
+      "action": "Bring one goal and your questions about what is currently available. Individuals, carers, providers, clinicians and research partners can each begin with the role they are considering."
+    }
+  ],
+  "sources": [
+    275,
+    371
+  ],
+  "tables": [
+    {
+      "id": 1,
+      "after_paragraph": 13
+    },
+    {
+      "id": 2,
+      "after_paragraph": 137
+    },
+    {
+      "id": 3,
+      "after_paragraph": 218
+    }
+  ],
+  "original_links": [
+    {
+      "label": "Aura project enquiries and early access information",
+      "url": "https://auraofintelligence.github.io/contact.html"
+    },
+    {
+      "label": "Verse Box Trial Proposal and Personal Aura",
+      "url": "https://auraofintelligence.github.io/aura-verse-box/personal-aura.html"
+    },
+    {
+      "label": "Australian Law 2012 and Your Relevance",
+      "url": "https://auraofintelligence.github.io/australian-law-2012-lukes-relevance/pages/your-relevance.html"
+    },
+    {
+      "label": "Mutual Futures and C Hour planning",
+      "url": "https://auraofintelligence.github.io/mutual-futures/"
+    },
+    {
+      "label": "Aura of Intelligence public project and design history",
+      "url": "https://github.com/auraofintelligence/auraofintelligence.github.io"
+    },
+    {
+      "label": "Aura Matrix Studio current prototype",
+      "url": "https://github.com/auraofintelligence/aura-matrix-studio"
+    },
+    {
+      "label": "National state and territory population March 2026",
+      "url": "https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release"
+    },
+    {
+      "label": "Regional population 2024 to 2025",
+      "url": "https://www.abs.gov.au/statistics/people/population/regional-population/latest-release"
+    },
+    {
+      "label": "South East Queensland population soars",
+      "url": "https://kpmg.com/au/en/media/media-releases/2025/12/south-east-queensland-population-soars.html"
+    },
+    {
+      "label": "Disability Ageing and Carers Australia 2022",
+      "url": "https://www.abs.gov.au/statistics/health/disability/disability-ageing-and-carers-australia-summary-findings/2022"
+    },
+    {
+      "label": "Dementia in Australia",
+      "url": "https://www.aihw.gov.au/reports/dementia/dementia-in-aus/contents/summary"
+    },
+    {
+      "label": "Younger onset dementia population health impacts",
+      "url": "https://www.aihw.gov.au/reports/dementia/dementia-in-aus/contents/younger-onset-and-childhood-dementia/population-health-impacts-younger-onset-dementia"
+    },
+    {
+      "label": "Young onset dementia",
+      "url": "https://www.dementia.org.au/about-dementia/young-onset-dementia"
+    },
+    {
+      "label": "Aged Care Royal Commission Final Report",
+      "url": "https://www.royalcommission.gov.au/system/files/2021-03/final-report-executive-summary.pdf"
+    },
+    {
+      "label": "Disability Royal Commission Final Report Volume 6",
+      "url": "https://disability.royalcommission.gov.au/publications/final-report-volume-6-enabling-autonomy-and-access"
+    },
+    {
+      "label": "About the new rights based Aged Care Act",
+      "url": "https://www.health.gov.au/our-work/aged-care-act/about"
+    },
+    {
+      "label": "NDIS Practice Standards rights and responsibilities",
+      "url": "https://www.ndiscommission.gov.au/rules-and-standards/ndis-practice-standards/core-module-rights-and-responsibilities"
+    },
+    {
+      "label": "Strengthened Aged Care Quality Standards",
+      "url": "https://www.health.gov.au/resources/publications/strengthened-aged-care-quality-standards?language=en"
+    },
+    {
+      "label": "Integrated care for older people second edition",
+      "url": "https://www.who.int/publications/i/item/9789240103726"
+    },
+    {
+      "label": "Dementia assessment management and support NG97",
+      "url": "https://www.nice.org.uk/guidance/ng97/chapter/recommendations"
+    },
+    {
+      "label": "World Alzheimer Report 2020 Design Dignity Dementia",
+      "url": "https://www.alzint.org/resource/world-alzheimer-report-2020/"
+    },
+    {
+      "label": "What is assistive technology",
+      "url": "https://www.ndis.gov.au/participants/assistive-technology/assistive-technology-and-advisors/what-assistive-technology"
+    },
+    {
+      "label": "NDIS age requirements",
+      "url": "https://www.ndis.gov.au/applying/eligibility-requirements/what-are-age-requirements"
+    },
+    {
+      "label": "My Aged Care assessment eligibility",
+      "url": "https://www.myagedcare.gov.au/should-i-apply"
+    },
+    {
+      "label": "Support at Home program",
+      "url": "https://www.myagedcare.gov.au/support-at-home"
+    },
+    {
+      "label": "Assistive Technology and Home Modifications scheme",
+      "url": "https://www.myagedcare.gov.au/aged-care-programs/assistive-technology-and-home-modifications-scheme"
+    },
+    {
+      "label": "Residential care",
+      "url": "https://www.dementia.org.au/living-dementia/care-options/residential-care"
+    },
+    {
+      "label": "NDIS guide to residential aged care",
+      "url": "https://www.ndis.gov.au/participants/life-transitions/transitioning-other-systems/guide-residential-aged-care"
+    },
+    {
+      "label": "Individual goal oriented cognitive rehabilitation GREAT trial",
+      "url": "https://research.bangor.ac.uk/en/publications/individual-goal-oriented-cognitive-rehabilitation-to-improve-ever/"
+    },
+    {
+      "label": "Digital life storybooks for people with dementia",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5034922/"
+    },
+    {
+      "label": "Queensland advance care planning forms",
+      "url": "https://www.qld.gov.au/health/support/advance-care-planning/forms"
+    },
+    {
+      "label": "Health information and impaired capacity",
+      "url": "https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/health-service-providers/guide-to-health-privacy/chapter-7-disclosing-information-about-patients-with-impaired-capacity"
+    },
+    {
+      "label": "Understanding regulation of medical device software",
+      "url": "https://www.tga.gov.au/resources/guidance/understanding-how-we-regulate-software-based-medical-devices"
+    },
+    {
+      "label": "National Statement on Ethical Conduct in Human Research 2025",
+      "url": "https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2025"
+    },
+    {
+      "label": "International AI Safety Report 2026",
+      "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026"
+    },
+    {
+      "label": "Artificial intelligence and medical device software regulation",
+      "url": "https://www.tga.gov.au/products/medical-devices/software-and-artificial-intelligence-ai/manufacturing/artificial-intelligence-ai-and-medical-device-software-regulation"
+    },
+    {
+      "label": "Australian clinical trial handbook",
+      "url": "https://www.tga.gov.au/resources/guidance/australian-clinical-trial-handbook"
+    },
+    {
+      "label": "Clinical research and impaired decision making capacity",
+      "url": "https://www.qcat.qld.gov.au/case-types/clinical-research"
+    },
+    {
+      "label": "Special health care",
+      "url": "https://www.qcat.qld.gov.au/case-types/special-health-care"
+    },
+    {
+      "label": "Hyperbaric Medicine",
+      "url": "https://metronorth.health.qld.gov.au/rbwh/healthcare-services/hyperbaric-medicine"
+    },
+    {
+      "label": "Hyperbaric oxygen in Alzheimer disease and mild cognitive impairment",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7293997/"
+    },
+    {
+      "label": "Sauna bathing and later dementia risk",
+      "url": "https://academic.oup.com/ageing/article/46/2/245/2654230"
+    },
+    {
+      "label": "Cold water swimming and the heart",
+      "url": "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/activity/cold-water-swimming"
+    }
+  ],
+  "routes": [
+    "index.html",
+    "getting-started.html",
+    "changing-support.html",
+    "identity-and-wishes.html",
+    "memory-palaces.html",
+    "moving-home.html",
+    "adult-genesis.html",
+    "people-and-choice.html",
+    "personal-records.html",
+    "clinical-development.html",
+    "pathways-and-place.html",
+    "community-and-futures.html",
+    "partnerships.html",
+    "sources.html",
+    "projects.html",
+    "licence.html",
+    "sitemap.html"
+  ]
+}

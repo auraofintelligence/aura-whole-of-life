@@ -1,0 +1,41 @@
+[
+  {
+    "id": "whole-life-hero",
+    "file": "assets/images/whole-life-hero.webp",
+    "small": "assets/images/whole-life-hero-800.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "A woman directs a tablet conversation with her adult daughter at a table overlooking a Queensland garden.",
+    "sha256": "58e89ba8c7e14adedfcd6e06f2aa46a88dc0099ffd49a32570443d88965f6c3f",
+    "generator": "OpenAI built-in image generation",
+    "generated": "2026-10-28",
+    "status": "Imagined editorial concept; fictional people and setting; not evidence of a service or outcome.",
+    "prompt": "Use case: photorealistic-natural. Asset type: original landscape editorial website illustration for an Australian personal-AI whole-of-life support proposal. Create a wide 3:2 image with thoughtful documentary realism and subtle painterly warmth, warm ivory, deep jade, muted gold and natural timber, soft Queensland daylight. No visible writing, logos, watermarks or medical claims. People are fictional, dignified, relaxed and self-directed. All technology is plausible; no glowing holograms, sci-fi symbols or diagnostic displays. Primary request: a confident woman in her late fifties and her adult daughter sitting together at a timber table in a welcoming garden-facing Queensland home. The woman directs an ordinary tablet while they look at a favourite printed photograph and a small ceramic object. A green garden and open veranda beyond. The technology is a small supporting detail; faces, relationships, everyday agency and the living space lead. Wide environmental composition with full people and no cropped hands; warm editorial atmosphere. It is imagined concept artwork, not a photograph of a care service."
+  },
+  {
+    "id": "places-and-memories",
+    "file": "assets/images/places-and-memories.webp",
+    "small": "assets/images/places-and-memories-800.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "An older man and his chosen supporter discuss a plant and keepsake while preparing to move from a familiar home.",
+    "sha256": "ded453e300315f516d9c4a554025a767f90388a10ad0d7ec7197a65d22cc1d1f",
+    "generator": "OpenAI built-in image generation",
+    "generated": "2026-10-28",
+    "status": "Imagined editorial concept; fictional people and setting; not evidence of a service or outcome.",
+    "prompt": "Use case: photorealistic-natural. Asset type: original landscape editorial website illustration for an Australian personal-AI whole-of-life support proposal. Create a wide 3:2 image with thoughtful documentary realism and subtle painterly warmth, warm ivory, deep jade, muted gold and natural timber, soft Queensland daylight. No visible writing, logos, watermarks or medical claims. People are fictional, dignified, relaxed and self-directed. All technology is plausible; no glowing holograms, sci-fi symbols or diagnostic displays. Primary request: a fictional older man preparing to move from his beloved Queensland house, sitting beside a wide window with his chosen supporter. An ordinary tablet shows a simple photographic view of the same garden, with no readable interface text. He points to a potted plant and a small timber keepsake while explaining their meaning; a few neatly packed moving boxes, an album and familiar chair establish the transition. Both people engaged as equals, unhurried, airy and human. Natural full-scene 3:2 composition. This represents preserving meaning through a move, not restoring memory or a treatment."
+  },
+  {
+    "id": "community-and-choice",
+    "file": "assets/images/community-and-choice.webp",
+    "small": "assets/images/community-and-choice-800.webp",
+    "width": 1536,
+    "height": 1024,
+    "alt": "Adults of different ages, including a wheelchair user, share seedlings and practical knowledge in an accessible community garden.",
+    "sha256": "f8dfcaa09575a3ed5fffc2ddf8036fbd145c41b65d69570b154bc0e56d1c2995",
+    "generator": "OpenAI built-in image generation",
+    "generated": "2026-10-28",
+    "status": "Imagined editorial concept; fictional people and setting; not evidence of a service or outcome.",
+    "prompt": "Use case: photorealistic-natural. Asset type: original landscape editorial website illustration for an Australian personal-AI whole-of-life support proposal. Create a wide 3:2 image with thoughtful documentary realism and subtle painterly warmth, warm ivory, deep jade, muted gold and natural timber, soft Queensland daylight. No visible writing, logos, watermarks or medical claims. People are fictional, dignified, relaxed and self-directed. All technology is plausible; no glowing holograms, sci-fi symbols or diagnostic displays. Primary request: an accessible Australian community garden gathering with four fictional adults of different ages, including an adult using a wheelchair at a raised herb bed, a younger gardener and an older mentor who passes a seedling. A shaded shared table holds vegetables and a simple meal; a modest workshop/veranda beyond. Warm relationships, personal choice, usefulness, intergenerational learning and belonging. Wide landscape environmental composition, natural gestures and realistic accessible paths. No branded uniforms, medical equipment or charity pose; no implication of an operating service."
+  }
+]

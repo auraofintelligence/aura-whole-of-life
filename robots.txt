@@ -1,0 +1,6 @@
+# Informational project copy. GitHub Pages crawler rules apply only at the origin root.
+# Merge .github/robots-root-snippet.txt into the existing origin-root robots.txt.
+# Discovery grants no additional reuse or AI-training rights.
+User-agent: *
+Allow: /
+Sitemap: https://auraofintelligence.github.io/aura-whole-of-life/sitemap.xml

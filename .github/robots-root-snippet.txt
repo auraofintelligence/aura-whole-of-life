@@ -1,0 +1,27 @@
+# Merge into the existing https://auraofintelligence.github.io/robots.txt.
+# This is a scoped snippet, not a replacement for the root policy.
+# Merge paths into any existing named group; preserve all other project rules.
+# Named groups do not automatically inherit User-agent: * restrictions.
+# A project-path robots.txt cannot govern origin-root crawler policy.
+# Discovery grants no additional reuse or AI-training rights.
+# Licence: https://github.com/auraofintelligence/aura-whole-of-life/blob/main/LICENCE.md
+
+User-agent: *
+Allow: /aura-whole-of-life/
+
+User-agent: OAI-SearchBot
+Allow: /aura-whole-of-life/
+
+User-agent: Claude-SearchBot
+Allow: /aura-whole-of-life/
+
+User-agent: GPTBot
+Disallow: /aura-whole-of-life/
+
+User-agent: ClaudeBot
+Disallow: /aura-whole-of-life/
+
+User-agent: Google-Extended
+Disallow: /aura-whole-of-life/
+
+Sitemap: https://auraofintelligence.github.io/aura-whole-of-life/sitemap.xml

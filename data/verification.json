@@ -1,0 +1,32 @@
+{
+  "checked": "2026-10-28",
+  "method": "Primary pages opened and read with the web tool",
+  "checks": [
+    {
+      "title": "Software intended for a medical purpose",
+      "finding": "TGA guidance explains that intended purpose determines whether software is a medical device. Regulated software generally needs ARTG inclusion before supply unless excluded or exempt. This does not classify or approve Aura.",
+      "url": "https://www.tga.gov.au/resources/guidance/understanding-how-we-regulate-software-based-medical-devices"
+    },
+    {
+      "title": "NDIS age and transition rules",
+      "finding": "The NDIS page states that applicants must be younger than 65 when applying. Existing participants can choose to continue after 65, with a separate requirement to leave when moving into residential aged care after 65. Other eligibility and item-funding rules also apply.",
+      "url": "https://www.ndis.gov.au/applying/eligibility-requirements/what-are-age-requirements"
+    },
+    {
+      "title": "Assessed support at home",
+      "finding": "My Aged Care confirms Support at Home began in November 2025. Services and funding follow assessment and approval. Its AT-HM scheme separately funds approved assistive technology and home modifications for assessed needs; this is not approval of an Aura product.",
+      "url": "https://www.myagedcare.gov.au/support-at-home"
+    },
+    {
+      "title": "Assistive technology and home modifications",
+      "finding": "The AT-HM scheme page describes an aged care assessment, an approval recorded in the person’s decision letter and support plan, and provider involvement for relevant equipment or modifications.",
+      "url": "https://www.myagedcare.gov.au/aged-care-programs/assistive-technology-and-home-modifications-scheme"
+    },
+    {
+      "title": "Specialist hyperbaric delivery",
+      "finding": "RBWH describes specialist fitness assessment, qualified medical, nursing and technical delivery, permitted-item restrictions and clinical referral. Its service information does not establish a benefit for the proposed combined Aura programme.",
+      "url": "https://metronorth.health.qld.gov.au/rbwh/healthcare-services/hyperbaric-medicine"
+    }
+  ],
+  "scope": "Specific checks only. Not a full independent fact-check of the source introduction."
+}

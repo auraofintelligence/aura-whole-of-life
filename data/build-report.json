@@ -1,0 +1,9 @@
+{
+  "html_pages": 18,
+  "public_routes": 17,
+  "source_paragraphs_preserved": 365,
+  "tables_preserved": 3,
+  "original_hyperlinks": 43,
+  "source_sha256": "ecc1a96e88ea0364378601379f96b8156d08b06045fc57bff433d113aca68822",
+  "checks": "All local href/src/srcset/fragments, menu routes, original narrative and table cells, source/artwork hashes, metadata, external-tab rel, self-hosted fonts and 18px screen typography passed."
+}

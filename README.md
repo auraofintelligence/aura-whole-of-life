@@ -58,3 +58,7 @@ The project `robots.txt` is informational because GitHub Pages robots policy is 
 Luke Nathan Hayes / Strange But True / Aura of Intelligence. Implementation prepared with ChatGPT. Original concept artwork generated with OpenAI image generation. External material and self-hosted fonts retain their own rights.
 
 The **Strange But True Public Source Licence** permits specified attributed non-commercial use. It is **not an open-source licence**; commercial, corporate, institutional and government uses require separate written permission. See the complete terms in `LICENCE.md`.
+
+## Imagery geometry correction
+
+The geometry-v4 artwork edits correct selected Aura display regions using an exact reference calculated from Aura Matrix Studio's current source. People, activities and the existing visual direction are retained. The visitor-facing written content continues to use its original source document and reviewed web edition; later geometry and implementation references inform imagery only. See IMAGERY-GEOMETRY.md, the reference board in docs/imagery/ and the artwork register for exact prompts, input/output hashes and retained previous versions.

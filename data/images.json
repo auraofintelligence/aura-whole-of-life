@@ -1,31 +1,27 @@
 [
   {
     "id": "whole-life-hero",
-    "file": "assets/images/whole-life-hero-protopia-v3.webp",
-    "small": "assets/images/whole-life-hero-protopia-v3-800.webp",
+    "file": "assets/images/whole-life-hero-geometry-v4.webp",
+    "small": "assets/images/whole-life-hero-geometry-v4-800.webp",
     "width": 1672,
     "height": 941,
-    "alt": "An older woman in purple directs a personal Aura display with her adult daughter, choosing outings and creative activities connected by luminous memory threads.",
-    "sha256": "60a801178391422c1cd7f82d534192d1e14546baadb2d418b0be6fc05cff68e1",
+    "alt": "An older woman in purple uses a faceted horn-torus Aura view to choose outings and creative activities with her adult daughter.",
+    "sha256": "6732f38cddf68ac92ab4d3d02de8b2242d346e36266ce45ea4aacf891f5f908c",
     "generator": "OpenAI built-in image generation",
     "generated": "2026-10-28",
     "status": "Imagined editorial concept; fictional people and setting; not evidence of a service or outcome.",
-    "prompt": "Reimagine the supplied existing website image using the additional supplied images as STYLE AND CONCEPT references. Image 1 is the current scene to replace, not a locked composition. The other images show the intended expressive cinematic Protopian visual language: characterful people, visible purposeful personal intelligence, purple clothing and objects, electric blue depth and golden warmth, everyday human life linked to ambitious ethical technology. Create a genuinely new composition, not merely recoloured clothes or sterile corporate furniture. Keep warmth, natural materials and greenery where useful; give every technological element a clear human purpose. Vivid colour separation and natural skin tones; no flat purple filter or monochrome colour wash. Wide landscape 16:9, full-scene composition, no text overlays, watermarks, slogans, official logos or fabricated medical data. All people and settings are fictional and this is proposed-future concept art. Do not copy the reference characters' identities. The whole-of-life proposal is about personal agency, relationships, meaning, creativity and a fair go in the age of superintelligence, not passive patients or a rustic wellness retreat. Hero proposition: an older woman with an expressive amethyst-purple jacket confidently directs her personal Aura from a large tablet in her own warmly lived-in Queensland home, with her adult daughter beside her as an equal conversation partner. They are making a choice about a future outing or creative activity, not posing at a table. A coherent luminous visualisation extends from the tablet: a rainbow nested horn-torus personal-context view, selected photographs and a musical memory connected by fine golden light, alongside a softly visible digital representation of a meaningful place. This is a visual metaphor for source-linked personal understanding, not a cure. Show their faces, hands and active attention clearly. Composition should balance the intimate human relationship with striking, intelligible technology and an open view toward the wider world. Rich purple and cobalt with warm gold and natural timber; plenty of neutral material contrast. Do not include a pressure chamber, medical uniforms, biometric claims or a generic wall of charts.",
-    "small_sha256": "5201af2808f7826f036978c8671f8ed5b6aef3d1a1131c82d99ccee628ac15a0",
-    "source_png_sha256": "9c76b119a8a50848c3e5b399e84a9c9d295b4ba64da380e1f7536a800a5bae39",
-    "revision": "protopia-v3",
+    "prompt": "Precise screen-only edit. Image1 is target, Image2 exact geometry reference. Replace ONLY the butterfly symbol inside the foreground tablet with the rounded RED HORN TORUS from the LEFT reference panel: thick closed toroidal body, quad facets, one pale-gold selected facet; no open through-hole or energy-field butterfly. Add a small selected-record/step inset if space permits. Do not add a row of colour buttons. Preserve the tablet frame, all foreground hands/fingers/stylus, people, faces, purple clothing, dog, room, light, sea view and selected outing/memory images exactly. Paint behind the hands, never over them. Keep the original landscape composition. Do not reproduce board annotations.",
+    "small_sha256": "84a68618098fce393bd2cf61dc93e5c158f91c3e7d505a93a10e957c3c6dee8f",
+    "source_png_sha256": "87d45b09666cb73c89f69e0f124a0b6b13c8c781a421c472a5d1b4438fd5a454",
+    "revision": "geometry-v4",
     "reference_images": [
       {
-        "file": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
-        "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96"
+        "file": "assets/images/whole-life-hero-protopia-v3.webp",
+        "sha256": "60a801178391422c1cd7f82d534192d1e14546baadb2d418b0be6fc05cff68e1"
       },
       {
-        "file": "choose-your-own-protopia-landscape-v1.png",
-        "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff"
-      },
-      {
-        "file": "ChatGPT Image 27 Oct 2026, 20_50_33.png",
-        "sha256": "cc1d38a95560824d1f6c578ea33f02c698c37b134d1319cd71c471429c6be789"
+        "file": "aura-geometry-reference-board.png",
+        "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a"
       }
     ],
     "previous_versions": [
@@ -41,8 +37,47 @@
         "generated": "2026-10-28",
         "status": "Imagined editorial concept; fictional people and setting; not evidence of a service or outcome.",
         "prompt": "Use case: photorealistic-natural. Asset type: original landscape editorial website illustration for an Australian personal-AI whole-of-life support proposal. Create a wide 3:2 image with thoughtful documentary realism and subtle painterly warmth, warm ivory, deep jade, muted gold and natural timber, soft Queensland daylight. No visible writing, logos, watermarks or medical claims. People are fictional, dignified, relaxed and self-directed. All technology is plausible; no glowing holograms, sci-fi symbols or diagnostic displays. Primary request: a confident woman in her late fifties and her adult daughter sitting together at a timber table in a welcoming garden-facing Queensland home. The woman directs an ordinary tablet while they look at a favourite printed photograph and a small ceramic object. A green garden and open veranda beyond. The technology is a small supporting detail; faces, relationships, everyday agency and the living space lead. Wide environmental composition with full people and no cropped hands; warm editorial atmosphere. It is imagined concept artwork, not a photograph of a care service."
+      },
+      {
+        "id": "whole-life-hero",
+        "file": "assets/images/whole-life-hero-protopia-v3.webp",
+        "small": "assets/images/whole-life-hero-protopia-v3-800.webp",
+        "width": 1672,
+        "height": 941,
+        "alt": "An older woman in purple directs a personal Aura display with her adult daughter, choosing outings and creative activities connected by luminous memory threads.",
+        "sha256": "60a801178391422c1cd7f82d534192d1e14546baadb2d418b0be6fc05cff68e1",
+        "generator": "OpenAI built-in image generation",
+        "generated": "2026-10-28",
+        "status": "Imagined editorial concept; fictional people and setting; not evidence of a service or outcome.",
+        "prompt": "Reimagine the supplied existing website image using the additional supplied images as STYLE AND CONCEPT references. Image 1 is the current scene to replace, not a locked composition. The other images show the intended expressive cinematic Protopian visual language: characterful people, visible purposeful personal intelligence, purple clothing and objects, electric blue depth and golden warmth, everyday human life linked to ambitious ethical technology. Create a genuinely new composition, not merely recoloured clothes or sterile corporate furniture. Keep warmth, natural materials and greenery where useful; give every technological element a clear human purpose. Vivid colour separation and natural skin tones; no flat purple filter or monochrome colour wash. Wide landscape 16:9, full-scene composition, no text overlays, watermarks, slogans, official logos or fabricated medical data. All people and settings are fictional and this is proposed-future concept art. Do not copy the reference characters' identities. The whole-of-life proposal is about personal agency, relationships, meaning, creativity and a fair go in the age of superintelligence, not passive patients or a rustic wellness retreat. Hero proposition: an older woman with an expressive amethyst-purple jacket confidently directs her personal Aura from a large tablet in her own warmly lived-in Queensland home, with her adult daughter beside her as an equal conversation partner. They are making a choice about a future outing or creative activity, not posing at a table. A coherent luminous visualisation extends from the tablet: a rainbow nested horn-torus personal-context view, selected photographs and a musical memory connected by fine golden light, alongside a softly visible digital representation of a meaningful place. This is a visual metaphor for source-linked personal understanding, not a cure. Show their faces, hands and active attention clearly. Composition should balance the intimate human relationship with striking, intelligible technology and an open view toward the wider world. Rich purple and cobalt with warm gold and natural timber; plenty of neutral material contrast. Do not include a pressure chamber, medical uniforms, biometric claims or a generic wall of charts.",
+        "small_sha256": "5201af2808f7826f036978c8671f8ed5b6aef3d1a1131c82d99ccee628ac15a0",
+        "source_png_sha256": "9c76b119a8a50848c3e5b399e84a9c9d295b4ba64da380e1f7536a800a5bae39",
+        "revision": "protopia-v3",
+        "reference_images": [
+          {
+            "file": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
+            "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96"
+          },
+          {
+            "file": "choose-your-own-protopia-landscape-v1.png",
+            "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff"
+          },
+          {
+            "file": "ChatGPT Image 27 Oct 2026, 20_50_33.png",
+            "sha256": "cc1d38a95560824d1f6c578ea33f02c698c37b134d1319cd71c471429c6be789"
+          }
+        ]
       }
-    ]
+    ],
+    "source_filename": "exec-ae2d167d-6e1c-4988-ad30-350e46de84be.png",
+    "version": "geometry-v4",
+    "generation_mode": "Built-in image_gen display-only edit using canonical Matrix geometry reference",
+    "geometry_reference": {
+      "file": "docs/imagery/aura-geometry-reference-board.png",
+      "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+      "source_manifest": "docs/imagery/source-manifest.json",
+      "scope": "Selected single-shell horn-torus editing view; R=r; fixed 12x24 lattice. Scene artwork is generated from the exact mathematical reference."
+    }
   },
   {
     "id": "places-and-memories",

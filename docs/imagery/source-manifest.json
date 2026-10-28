@@ -1,0 +1,77 @@
+{
+  "format": "aura-canonical-reference/1",
+  "sources": [
+    {
+      "file": "G:\\GithubLocal-PC\\aura-matrix-studio\\core.js",
+      "sha256": "86086dd0f17bac46822b9098799e669e594eecaee79e16a831a9a4783018b4f2"
+    },
+    {
+      "file": "G:\\GithubLocal-PC\\aura-matrix-studio\\renderer.js",
+      "sha256": "7ea934de1551b4dc425ffb29eaa505a2042279777aff5463573c02d8496bc6e4"
+    },
+    {
+      "file": "G:\\GithubLocal-PC\\aura-matrix-studio\\spatial.js",
+      "sha256": "54f8bb3a8ac7de38a96560df3c36108e843b2fdedb46de6efde2d958903522bd"
+    }
+  ],
+  "formula": {
+    "parameters": "u,v in [0,1]",
+    "r": "ROWS/(2*pi)",
+    "rValue": 1.909859317102744,
+    "q": "r*(1-cos(2*pi*v))",
+    "point": "[q*sin(2*pi*(u-0.5)), -r*sin(2*pi*v), q*cos(2*pi*(u-0.5))]",
+    "nestedScale": "(shell+1)/7, zero-based shell 0..6",
+    "axis": "Y is vertical",
+    "pinch": "v=0 or v=1, all u; [0,0,0] up to floating-point residual",
+    "maxClosedFormError": 1.1102230246251565e-15
+  },
+  "rows": 12,
+  "columns": 24,
+  "facetsPerShell": 288,
+  "faceAddresses": 4032,
+  "colours": [
+    {
+      "shell": 0,
+      "name": "Red",
+      "colour": "#e23a2e",
+      "nestedScale": 0.14285714285714285
+    },
+    {
+      "shell": 1,
+      "name": "Orange",
+      "colour": "#f2801f",
+      "nestedScale": 0.2857142857142857
+    },
+    {
+      "shell": 2,
+      "name": "Yellow",
+      "colour": "#edc119",
+      "nestedScale": 0.42857142857142855
+    },
+    {
+      "shell": 3,
+      "name": "Green",
+      "colour": "#35a24f",
+      "nestedScale": 0.5714285714285714
+    },
+    {
+      "shell": 4,
+      "name": "Blue",
+      "colour": "#2f6fed",
+      "nestedScale": 0.7142857142857143
+    },
+    {
+      "shell": 5,
+      "name": "Indigo",
+      "colour": "#5546c8",
+      "nestedScale": 0.8571428571428571
+    },
+    {
+      "shell": 6,
+      "name": "Violet",
+      "colour": "#9a4fd6",
+      "nestedScale": 1
+    }
+  ],
+  "note": "All positions in geometry.json were evaluated directly by the current Matrix core.js point/shellPoint functions. No public repository was modified."
+}

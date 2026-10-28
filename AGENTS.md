@@ -15,3 +15,7 @@ Do not collect personal or health information. No accounts, analytics, tracking 
 ## Imagery source and content boundary
 
 Read IMAGERY-GEOMETRY.md and docs/imagery/aura-geometry-reference-board.png before creating or editing any Aura depiction. Use the actual Matrix horn-torus lattice and selected-shell/nested views; do not infer its geometry from previous AI artwork. The original three proposal documents and sixty-day teacher PDF continue to drive written content. Later geometry/implementation references inform imagery only. Preserve current public wording and source readings during image corrections; update only artwork, image descriptions/references and production provenance/guidance.
+
+## Educational visual layer
+
+The user requested a further visual learning layer for newcomers. Source-faithful mathematical diagrams and page-local interactive visual examples complement the existing raster scene artwork. Keep all existing written introductions, source readings and course expansions unchanged. Later Sovereign Space Builder, Sensorium and Mate references inform what the pictures show and where they are placed, not new article text. Visuals may use short labels, legends, native view controls and sample record annotations. Preserve useful static fallbacks, 18px readable text, keyboard access and no network, personal-data entry, persistence or autoplay. Seven colours, internal/external views and facet stacks matter; folding is a minor detail. Placement is recorded in assets/visual-example-placement.json against existing source paragraph or section IDs.

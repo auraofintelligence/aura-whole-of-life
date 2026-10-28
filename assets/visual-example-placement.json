@@ -1,0 +1,47 @@
+{
+  "getting-started": [
+    {
+      "module": "learning",
+      "mode": "layers",
+      "example": "memory",
+      "after_id": "source-p-19",
+      "reason": "Original minimum viable self provides continuing representation and a place for later encounters."
+    }
+  ],
+  "identity-and-wishes": [
+    {
+      "module": "everyday",
+      "mode": "meaning",
+      "example": "memory",
+      "after_id": "source-p-67",
+      "reason": "Original explores several meanings of missing home."
+    }
+  ],
+  "memory-palaces": [
+    {
+      "module": "everyday",
+      "mode": "place",
+      "example": "memory",
+      "after_id": "source-p-82",
+      "reason": "Original shelf/object/photo/voice-memory anchor."
+    }
+  ],
+  "personal-records": [
+    {
+      "module": "learning",
+      "mode": "inside",
+      "example": "memory",
+      "after_id": "source-p-160",
+      "reason": "Original private visit, selected sharing and purpose."
+    }
+  ],
+  "community-and-futures": [
+    {
+      "module": "everyday",
+      "mode": "mates",
+      "example": "event",
+      "after_id": "source-p-243",
+      "reason": "Original shared skills, gardens, gathering and contribution."
+    }
+  ]
+}

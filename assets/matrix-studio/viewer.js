@@ -9,7 +9,7 @@ const bounded=(n,a,b)=>Math.max(a,Math.min(b,n));
 let serial=0;
 
 // Lesson controls surround the unchanged Matrix Studio AuraView, not a second renderer.
-export function mountMatrix(root,{mode='layers',example='memory',project:givenProject,selection:givenSelection,onReturn}={}){
+export function mountMatrix(root,{mode='layers',example='memory',project:givenProject,selection:givenSelection,onReturn,onSelection,compact=false}={}){
   if(root.matrixSample)return root.matrixSample;
   const fixture=SAMPLES.contexts[example]||SAMPLES.contexts.memory;
   let project=validateProject(structuredClone(givenProject||fixture.project));
@@ -20,6 +20,7 @@ export function mountMatrix(root,{mode='layers',example='memory',project:givenPr
   multiple=(project.facetSelections[selection.shell+'/'+selection.face]||[]).length>1;
   const abort=new AbortController(),uid='matrix-sample-'+(++serial),controls={shells:[],faces:[],shapes:[]};
   root.replaceChildren();root.classList.add('aura-learning');root.dataset.matrixRuntime='studio';
+  if(compact)root.classList.add('al-compact');
   const frame=make('div',undefined,'al-frame');root.append(frame);
   frame.append(make('h3','Explore the Aura Matrix'),make('p','Matrix Studio · fictional sample','al-sample'));
   if(onReturn)button('Back to starter activity',()=>onReturn(project,selection),frame);
@@ -57,7 +58,7 @@ export function mountMatrix(root,{mode='layers',example='memory',project:givenPr
   function select(t,event={}){
     t=validateTarget(t);
     if(t.kind==='facet'){const result=selectFacetGroup(project.facetSelections,t,(Boolean(event.type)&&multiple)||event.shiftKey||event.ctrlKey||event.metaKey);project.facetSelections=result.groups;t=result.focused||t;}
-    selection=t;project.selections=remember(project.selections,t);refresh();
+    selection=t;project.selections=remember(project.selections,t);refresh();onSelection?.(t,recordsAt(project.records,t));
   }
   function switchOwner(shell,face){selection=remembered(project.selections,shell,face)||target(shell,face,'facet',181);project.selections=remember(project.selections,selection);if((project.facetSelections[shell+'/'+face]||[]).length>1)multiple=true;refresh();}
   function setShape(value){shape=value;refresh();view?.reset();}
@@ -74,9 +75,9 @@ export function mountMatrix(root,{mode='layers',example='memory',project:givenPr
     const here=recordsAt(project.records,selection);jump.value=here[0]?.id||'';recordContent.replaceChildren();
     if(!here.length)recordContent.append(make('p','No sample record at this address. Choose a prepared record or another facet.'));
     for(const r of here){recordContent.append(make('h4',r.title));if(r.note)recordContent.append(make('p',r.note));const fields=make('dl',undefined,'al-fields'),extra=make('dl',undefined,'al-fields');for(const [name,value]of Object.entries(r.fields||{})){(['Audience','Source','Date'].includes(name)?fields:extra).append(make('dt',name),make('dd',value));}if(fields.children.length)recordContent.append(fields);if(extra.children.length){const detail=make('details');detail.append(make('summary','Record details'),extra);recordContent.append(detail);}if(r.instructions){const detail=make('details');detail.append(make('summary','Sample instructions'),make('p',r.instructions));recordContent.append(detail);}if(r.data!==undefined){const detail=make('details');detail.append(make('summary','Attached sample data'),make('pre',JSON.stringify(r.data,null,2)));recordContent.append(detail);}const related=project.links.filter(l=>l.from===r.id||l.to===r.id);if(related.length){const links=make('div',undefined,'al-links');links.append(make('strong','Connected records'));for(const link of related){const other=project.records.find(x=>x.id===(link.from===r.id?link.to:link.from));if(other)button(link.label+' · '+other.title,()=>select(recordTarget(other)),links);}recordContent.append(links);}}
-    if(view){view.selection=selection;view.selectedFacets=group;view.kind=selection.kind==='stack'?'facet':selection.kind;view.showVolume=selection.kind==='volume';view.records=project.records;view.links=project.links;view.vectors=project.vectors;view.stacks=project.stacks;view.shellStyles=project.shellStyles;view.explodeStacks=exploded?1:0;view.set({...PRESETS[shape]},shell,selection.kind==='volume'?null:index,face);}
+    if(view){view.selection=selection;view.selectedFacets=compact?[]:group;view.kind=selection.kind==='stack'?'facet':selection.kind;view.showVolume=selection.kind==='volume';view.records=compact?recordsAt(project.records,selection):project.records;view.links=compact?[]:project.links;view.vectors=project.vectors;view.stacks=compact?project.stacks.filter(stack=>selection.kind==='stack'&&stack.shell===shell&&stack.face===face&&stack.cell===index):project.stacks;view.shellStyles=project.shellStyles;view.explodeStacks=compact&&selection.kind==='stack'?1:exploded?1:0;view.set({...PRESETS[shape]},shell,selection.kind==='volume'?null:index,face);}
   }
   try{view=new AuraView(canvas,select);view.shellStyles=project.shellStyles;refresh();view.resize();}
   catch(error){canvas.hidden=true;hint.textContent='The 3D view needs WebGL. Use the numbered facet map and sample records below.';cameraButtons.forEach(b=>b.disabled=true);settings.open=true;refresh();const fallback=make('div',undefined,'al-fallback');fallback.innerHTML=initialFallback||print.innerHTML;stage.append(fallback);}
-  const api={view,get project(){return project;},select,destroy(){abort.abort();view?.dispose();delete root.matrixSample;delete root.dataset.matrixRuntime;root.className=originalClass;root.innerHTML=initialFallback;}};root.matrixSample=api;return api;
+  const api={view,get project(){return project;},select,updateProject(next,nextSelection=selection){project=validateProject(structuredClone(next));selection=validateTarget(nextSelection);project.selections=remember(project.selections,selection);refresh();},destroy(){abort.abort();view?.dispose();delete root.matrixSample;delete root.dataset.matrixRuntime;root.className=originalClass;root.innerHTML=initialFallback;}};root.matrixSample=api;return api;
 }

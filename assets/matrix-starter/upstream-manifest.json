@@ -300,7 +300,7 @@
     },
     {
       "output": "index.html",
-      "output_sha256": "ccde04da382537943323fef664b1270bb29cc644c352929982d5197072ed29e0",
+      "output_sha256": "0ce0b9dcc1cc36aa94cc673269766c8db70c8f003fd14858e68151ecad444496",
       "role": "Sample host or bundled native/source fixture data",
       "included": true
     },

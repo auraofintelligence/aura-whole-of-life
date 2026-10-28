@@ -23,3 +23,7 @@ The user requested a further visual learning layer for newcomers. Source-faithfu
 ## Native Matrix Studio samples
 
 The author explicitly requested the actual Studio renderer, torus movement and starter activities. Keep the vendored AuraView and schema modules faithful to Aura Matrix Studio; do not replace them with a separately written renderer. The starter host reuses native UI functions and writers with per-example in-memory sample state. Sample forms are authorised for these fictional activities, without reading the real Studio project or adding persistence, accounts or uploads. Existing readings and course expansions remain unchanged. Keep native source licences, Three.js notice, upstream/adaptation hashes, contextual placement and static fallbacks. Run the native sample checks as well as the existing site checks.
+
+## Immediate input view
+
+The latest user feedback requires the actual torus to stay centred and visible on the input screen. Cycle the text/step cards, starting at facet 1. Picking a visible facet changes the adjacent text; typing changes that same facet’s record immediately. Keep the viewer instance/camera stable across edits and steps. Do not restore a Save/Continue/Review-table/View-in-Aura screen sequence as the default. Preserve the reading text and the native renderer/schema/writers.

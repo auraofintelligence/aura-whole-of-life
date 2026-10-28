@@ -30,6 +30,7 @@ jobs:
         run: python scripts/check.py
       - run: python scripts/check_matrix_samples.py
       - run: node scripts/check_native_samples.mjs
+      - run: node scripts/check_instant_samples.mjs
       - name: Check optional JavaScript
         run: node --check assets/site.js
       - name: Export public files

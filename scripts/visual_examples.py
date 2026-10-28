@@ -16,7 +16,7 @@ def starter_content(mode,example):
     for row in rows[:3]:
         for name,value in list(row.items())[:4]:
             if value:definitions+=f'<dt>{escape(name)}</dt><dd>{escape(str(value))}</dd>'
-    url=f'assets/matrix-starter/index.html?stage={mode}&amp;example={example}'
+    url=f'assets/matrix-starter/index.html?stage={mode}&amp;example={example}&amp;ui=instant-2'
     label=STARTER_LABELS[mode]
     return f'<div class="aura-starter" data-aura-starter="{mode}" data-aura-example="{example}" data-starter-src="{url}" data-starter-title="Matrix Studio sample: {label}"><div class="as-fallback"><h3>{label}</h3><p>Prepared fictional Matrix Studio sample</p><dl>{definitions}</dl><p><a href="{url}" target="_blank" rel="noopener noreferrer">Open this Studio sample ↗</a></p></div></div>'
 
@@ -45,6 +45,6 @@ def enhance_visual_document(route,document):
         document=document[:end]+visual+document[end:]
     links='<link rel="stylesheet" href="assets/visual-examples.css">'
     for module in sorted(used):
-        version='?v=matrix-studio-1' if module in {'learning','starter'} else ''
+        version='?v=matrix-studio-2' if module in {'learning','starter'} else ''
         links+=f'<link rel="stylesheet" href="assets/aura-{module}.css{version}"><script defer src="assets/aura-{module}.js{version}"></script>'
     return document.replace('</head>',links+'</head>',1)

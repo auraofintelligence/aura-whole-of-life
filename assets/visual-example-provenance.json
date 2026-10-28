@@ -146,12 +146,12 @@
     "matrix-studio/shell-style.js": "64967cf365fb16a72fa571da59f8c004befbaf8dab38fd564741b2ef9a5eb9b6",
     "matrix-studio/spatial.js": "e50137ac19855f8e694ce65be0973460601cb3feee8cf751464dbb1635d47508",
     "matrix-studio/upstream-manifest.json": "58e61682eac0179d5e3c7501744ee3fd4751630442a398c7a971ee1d43223a93",
-    "matrix-studio/viewer.js": "91380523a7b51844943e9a3fe1558fa7648ce04ff3dbdecc3df466561b56853d",
+    "matrix-studio/viewer.js": "2b9a607d358d382f574fc90533df3e978fceaf9f983c9ee419120767f564e4c9",
     "matrix-studio/vendor/THREE-LICENSE.txt": "7dddf7c5b8fd10ee654db8857d75d104b5557889aa5a91fc4ca545ea7c07062f",
     "matrix-studio/vendor/three.min.js": "9274bbcec8d96168626c732b5d31c775aa8cfb7eaa0599bec0c175908a2c1ce2",
     "matrix-starter/entry.js": "31850825f1d6b8c5da01ef1ed5bd3ad9e40b4b3c34fc7d930e66941dc94acd92",
     "matrix-starter/fixtures.js": "22a3b28c9d28e92f2ddaa39c8b998335fd1e42f2f2de80f809e90c35954380fc",
-    "matrix-starter/index.html": "ccde04da382537943323fef664b1270bb29cc644c352929982d5197072ed29e0",
+    "matrix-starter/index.html": "0ce0b9dcc1cc36aa94cc673269766c8db70c8f003fd14858e68151ecad444496",
     "matrix-starter/LICENCE.md": "21d7ec38813b262a834a83ac75a8e84f5a1eb9e71d7af2456068a41354d4ad9a",
     "matrix-starter/native.css": "2377778849de1699c4f04a3e2c2a31355b132e75d1d9faff9212f3291d5537e8",
     "matrix-starter/package.json": "1239d4d885dcad42201a27ed9324f8f0f760b78700d8db9ced39a511cffe7eae",
@@ -159,7 +159,7 @@
     "matrix-starter/sample-store.js": "77e97396f013b8227d80a887a658c600c5aa12d0729df66197add72d66348478",
     "matrix-starter/starter.css": "a3c669392d6e1ad02782c2a9ecb83229281e453c7b4f789586c1e0d82be0a1a7",
     "matrix-starter/starter.js": "4e57c1915a6d199b946048b823d8e775a85a7779f512413f1de8248854efab4b",
-    "matrix-starter/upstream-manifest.json": "1bb9c456f139966517ddb678da4c7aa5a1be1f9457e35697d9dffeb869da2212",
+    "matrix-starter/upstream-manifest.json": "3aa455431e65bf21799b716428e119e0ac7a6ca09aea124a5135e4e358248383",
     "matrix-starter/studio/avatar-data.js": "98a54ef10ab5ae170e0c95770b02622f3708c6f5086e52b58ba1d484b0484ee9",
     "matrix-starter/studio/dataset-allocation.js": "1c6427b6cc857fe5991884cb893263c5d8ce6ceefa6ffdff4b5511e668fff506",
     "matrix-starter/studio/eye-photos.js": "1d66dfbfa070d3a6776fcc41b20b9fd87c1aeec74531f3237c057847975cf5d3",
@@ -173,7 +173,12 @@
     "matrix-starter/assets/mockplus/2D0AAEEA1F543459C9F086DE92D76DCB.png": "c9bd3c28c5715943ce9305c7f6b8e64625f8c00e645b06e4cb0403bb4b5af46f",
     "matrix-starter/assets/mockplus/86B0ADA6055984BBBE033B37BAFCB445.png": "d58539121fafa7dcd35cf7d942e76a284a8f5aac00d37dbd299d3e7ecd832fd4",
     "matrix-starter/assets/mockplus/A95C1B93E69747649F0DD819C3B71AC1.svg": "d8763f4ab0dd3fc93c0a442bec24b53a428e188297ea226b09ec728676323572",
-    "matrix-starter/assets/mockplus/AB022E2843DD5DDE810CE5A68E5CE80A.png": "eec5c1881c6e37021321dc4eb8588539bc16fd1c5f88d61a14314d5483fbe744"
+    "matrix-starter/assets/mockplus/AB022E2843DD5DDE810CE5A68E5CE80A.png": "eec5c1881c6e37021321dc4eb8588539bc16fd1c5f88d61a14314d5483fbe744",
+    "matrix-starter/instant-data.js": "4e39833aee516dbfa3289cf0586a80e478defc3ae0da974fd7b12673e0d471f5",
+    "matrix-starter/INSTANT-DATA.md": "622f07aac429ed3dba9e993579eed3108281af7d7a8c982b8643b2ddb34acb9b",
+    "matrix-starter/instant-fields.js": "c36cba1c26da506475a683b87683c8d88a2eb0bdf8c9857aa5be0093d22ed70b",
+    "matrix-starter/instant.css": "4e884338809aac9d6c583bfd5a2574326896789695c988c1b49fe2856af9c3b9",
+    "matrix-starter/instant.js": "7d75ffa941b11259d4c94fe368c9201eb2f758534b90e5577a13fed9fc506842"
   },
   "placements": {
     "figures": 11,
@@ -197,6 +202,7 @@
       "family",
       "avatar",
       "allocate"
-    ]
+    ],
+    "defaultInteraction": "Persistent centred torus; immediate native row/record updates; text cards cycle from facet 1; no separate save/allocation/view screens."
   }
 }

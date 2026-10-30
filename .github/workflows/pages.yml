@@ -28,9 +28,12 @@ jobs:
         run: python scripts/build.py
       - name: Verify original content, routes and assets
         run: python scripts/check.py
-      - run: python scripts/check_matrix_samples.py
-      - run: node scripts/check_native_samples.mjs
-      - run: node scripts/check_instant_samples.mjs
+      - name: Verify basic Aura geometry and independent selections
+        run: |
+          python scripts/check_basic_aura.py
+          node scripts/check_basic_aura.mjs
+          node --check assets/basic-aura.js
+          node --check assets/matrix-studio/basic-viewer.js
       - name: Check optional JavaScript
         run: node --check assets/site.js
       - name: Export public files

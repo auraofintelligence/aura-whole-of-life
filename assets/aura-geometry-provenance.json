@@ -1,0 +1,32 @@
+{
+  "format": "aura-basic-geometry/1",
+  "date": "2026-10-30",
+  "scope": "Seven native horn tori and independent facet selections only; no data assignments or sample project.",
+  "placements": {
+    "getting-started": {
+      "after_id": "source-p-19"
+    }
+  },
+  "productionAssets": {
+    "matrix-studio/aura-glow-data.js": "875c1f54e7da3de1122827b7383aa1e898bb84160012cdb75cbe594ff54b3cd2",
+    "matrix-studio/basic-viewer.css": "cf20fe4cfc56faeb22b2cd0ac26411e8885bd056227c71e8d3430fbefc2a213b",
+    "matrix-studio/basic-viewer.js": "fd675ded450f7feadcf4066ffd91a98d1f63486a5db878757ff63f31966b58ab",
+    "matrix-studio/core.js": "2fa88da9708d13f8f42ee160785785faae9e0e630087e54804ee1a8bd1420602",
+    "matrix-studio/dataset-schema.js": "76a96f30964bcd3ea60e87819fa0e1c4cb3e3ca1728ecccadde81af7762cf00f",
+    "matrix-studio/favourites-data.js": "b917c0256b344279443b327e5a8c34f0d2328c8a7bb659e7f1d7774e8cda863c",
+    "matrix-studio/frame-display.js": "2f1f20772572a03371d8711c117e9b0e62f4c14e21af5c50405be524a470b6ed",
+    "matrix-studio/LICENCE.md": "21d7ec38813b262a834a83ac75a8e84f5a1eb9e71d7af2456068a41354d4ad9a",
+    "matrix-studio/original-routes.js": "455490dab2a802f63614d7bd430ef6ad0801ed248897e3c1deb3b1b882e05067",
+    "matrix-studio/package.json": "1239d4d885dcad42201a27ed9324f8f0f760b78700d8db9ced39a511cffe7eae",
+    "matrix-studio/renderer.js": "eef6a58b3ecb17c71e533d42ea2dd07e432c9435ebcb1e817ad12751ca5bfae4",
+    "matrix-studio/shell-style.js": "64967cf365fb16a72fa571da59f8c004befbaf8dab38fd564741b2ef9a5eb9b6",
+    "matrix-studio/spatial.js": "e50137ac19855f8e694ce65be0973460601cb3feee8cf751464dbb1635d47508",
+    "matrix-studio/surface-state.js": "499e05a4e2e3eb2ebf4cab6d84f88ef9735d417713d0cda19026f549a61b8e54",
+    "matrix-studio/upstream-manifest.json": "58e61682eac0179d5e3c7501744ee3fd4751630442a398c7a971ee1d43223a93",
+    "matrix-studio/vendor/THREE-LICENSE.txt": "7dddf7c5b8fd10ee654db8857d75d104b5557889aa5a91fc4ca545ea7c07062f",
+    "matrix-studio/vendor/three.min.js": "9274bbcec8d96168626c732b5d31c775aa8cfb7eaa0599bec0c175908a2c1ce2",
+    "basic-aura.js": "077313df0d6247d8a54b38111bf3832ce92381297a1b9ff3493eb5f24af5f4b8",
+    "aura-geometry-placement.json": "4582eb4c50f77a4947e53eecb3fb1119880fe4a54cbcadd6b6fcdad208df277d"
+  },
+  "nativeManifest": "matrix-studio/upstream-manifest.json"
+}

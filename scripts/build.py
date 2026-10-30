@@ -1,4 +1,4 @@
-from visual_examples import enhance_visual_document
+from basic_aura import enhance_basic_aura
 """Build a complete, dependency-free reading website from the preserved DOCX."""
 from pathlib import Path
 from html import escape
@@ -147,7 +147,7 @@ def page(slug, title, summary, body, noindex=False):
     schema = {'@context': 'https://schema.org', '@type': 'WebPage', 'name': title, 'description': summary, 'url': canonical, 'inLanguage': 'en-AU', 'isPartOf': {'@type': 'WebSite', 'name': 'Aura of Intelligence for Adaptive Whole of Life Support', 'url': BASE}, 'author': {'@type': 'Person', 'name': 'Luke Nathan Hayes'}}
     doc = f'''<!doctype html>
 <html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">{'<base href="' + BASE + '">' if slug == '404' else ''}<meta name="theme-color" content="#36184f"><title>{E(title)} | Aura Whole of Life</title><meta name="description" content="{description}"><link rel="canonical" href="{canonical}">{'<meta name="robots" content="noindex, follow">' if noindex else ''}<meta property="og:type" content="website"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{description}"><meta property="og:url" content="{canonical}"><meta property="og:image" content="{BASE}{IMAGES['whole-life-hero']['file']}"><meta property="og:image:alt" content="{E(IMAGES['whole-life-hero']['alt'])}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" type="image/png" href="assets/favicon.png"><link rel="stylesheet" href="assets/site.css"><script src="assets/site.js" defer></script><script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script></head><body id="top">{header(slug)}<main id="main">{body}</main>{footer(slug)}</body></html>'''
-    doc = enhance_visual_document(slug, doc)
+    doc = enhance_basic_aura(slug, doc)
     (ROOT / f'{slug}.html').write_text(doc, encoding='utf-8', newline='\n')
 
 def intro(kicker, title, summary):
